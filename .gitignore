@@ -2,3 +2,6 @@ bin
 obj
 .vscode
 packages
+.git
+.DS_Store
+.vs
